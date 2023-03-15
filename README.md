@@ -1,9 +1,6 @@
 # Ronaldinho Marquezine Silva
 
-
-
 --- 
-
 
 ## Dados Pessoais:
 
@@ -18,5 +15,9 @@ Idade: 23
 E-Mail: ronaldinhoms@gmail.com
 
 
-
 ---
+
+## Experiências:
+
+- Jogador profissional desde 1969 - atualmente
+- Banderinha 
