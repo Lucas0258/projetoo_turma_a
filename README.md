@@ -13,7 +13,7 @@ Telefone: (14) 98157-2071
 Idade: 23
 
 E-Mail: ronaldinhoms@gmail.com
-
+Tinder:R10_Rei_Delas
 
 ---
 
@@ -21,3 +21,4 @@ E-Mail: ronaldinhoms@gmail.com
 
 - Jogador profissional desde 1969 - atualmente
 - Banderinha 
+- Hoje é dia das mulheres, quer namorar comigo?
